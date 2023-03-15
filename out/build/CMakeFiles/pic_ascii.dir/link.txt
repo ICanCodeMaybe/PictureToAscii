@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/pic_ascii.dir/src/main.cpp.o CMakeFiles/pic_ascii.dir/src/pngAscii.cpp.o -o pic_ascii 

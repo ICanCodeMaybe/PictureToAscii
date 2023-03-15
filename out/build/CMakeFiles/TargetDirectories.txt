@@ -1,0 +1,3 @@
+/home/arch_user_btw/code/cpp/PictureToAscii/out/build/CMakeFiles/pic_ascii.dir
+/home/arch_user_btw/code/cpp/PictureToAscii/out/build/CMakeFiles/edit_cache.dir
+/home/arch_user_btw/code/cpp/PictureToAscii/out/build/CMakeFiles/rebuild_cache.dir
